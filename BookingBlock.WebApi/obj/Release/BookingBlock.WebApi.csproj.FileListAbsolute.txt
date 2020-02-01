@@ -1,0 +1,5 @@
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi\bin\Release\BookingBlock.WebApi.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi\bin\Release\BookingBlock.WebApi.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi\obj\Release\BookingBlock.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi\obj\Release\BookingBlock.WebApi.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi\obj\Release\BookingBlock.WebApi.pdb

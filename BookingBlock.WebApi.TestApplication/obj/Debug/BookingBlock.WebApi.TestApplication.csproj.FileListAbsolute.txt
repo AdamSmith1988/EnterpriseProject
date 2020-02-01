@@ -1,0 +1,14 @@
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\BookingBlock.WebApi.TestApplication.exe.config
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\BookingBlock.WebApi.TestApplication.exe
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\BookingBlock.WebApi.TestApplication.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\obj\Debug\BookingBlock.WebApi.TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\obj\Debug\BookingBlock.WebApi.TestApplication.exe
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\obj\Debug\BookingBlock.WebApi.TestApplication.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\BookingBlock.WebApi.Client.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\BookingBlock.WebApi.Client.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\BookingBlock.WebApi.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\BookingBlock.WebApi.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.TestApplication\bin\Debug\System.Net.Http.Formatting.xml

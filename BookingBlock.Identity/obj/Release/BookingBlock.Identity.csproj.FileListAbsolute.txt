@@ -1,0 +1,7 @@
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\bin\Release\BookingBlock.Identity.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\bin\Release\BookingBlock.Identity.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\obj\Release\BookingBlock.Identity.csprojResolveAssemblyReference.cache
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\obj\Release\BookingBlock.Identity.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\obj\Release\BookingBlock.Identity.pdb

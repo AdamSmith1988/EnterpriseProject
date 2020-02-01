@@ -1,0 +1,11 @@
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\bin\Debug\BookingBlock.WebApi.Client.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\bin\Debug\BookingBlock.WebApi.Client.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\obj\Debug\BookingBlock.WebApi.Client.csprojResolveAssemblyReference.cache
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\obj\Debug\BookingBlock.WebApi.Client.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\obj\Debug\BookingBlock.WebApi.Client.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\bin\Debug\BookingBlock.WebApi.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\bin\Debug\BookingBlock.WebApi.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi.Client\bin\Debug\System.Net.Http.Formatting.xml

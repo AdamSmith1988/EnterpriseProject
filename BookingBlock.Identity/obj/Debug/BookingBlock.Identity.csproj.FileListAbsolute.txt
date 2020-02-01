@@ -1,0 +1,14 @@
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\bin\Debug\BookingBlock.Identity.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\bin\Debug\BookingBlock.Identity.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\obj\Debug\BookingBlock.Identity.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\obj\Debug\BookingBlock.Identity.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.Identity\obj\Debug\BookingBlock.Identity.csprojResolveAssemblyReference.cache
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.Identity\bin\Debug\BookingBlock.Identity.dll
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.Identity\bin\Debug\BookingBlock.Identity.pdb
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.Identity\obj\Debug\BookingBlock.Identity.csprojResolveAssemblyReference.cache
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.Identity\obj\Debug\BookingBlock.Identity.dll
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.Identity\obj\Debug\BookingBlock.Identity.pdb

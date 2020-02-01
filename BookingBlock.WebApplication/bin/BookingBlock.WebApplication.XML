@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookingBlock.WebApplication</name>
+    </assembly>
+    <members>
+        <member name="M:BookingBlock.WebApplication.ApiControllers.AccountController.ChangePassword(BookingBlock.WebApplication.ApiControllers.ChangePasswordRequest)">
+            <summary>
+            Allows a user to change there password.
+            </summary>
+            <param name="changePasswordRequest">The change password request containing the users current password and the new password.</param>
+            <returns>A HTTP action result containing the result of the change password request.</returns>
+        </member>
+        <member name="T:BookingBlock.WebApplication.ApiControllers.AddBusinessTypeRequest">
+            <summary>
+            An object to represent a business type we want to add to the database.
+            </summary>
+        </member>
+        <member name="M:BookingBlock.WebApplication.ApiControllers.BusinessesController.ChangeAddress(BookingBlock.WebApi.ChangeBusinessAddressRequest)">
+            <summary>
+                Used to change the address of a business.
+            </summary>
+            <param name="changeBusinessAddressRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="P:BookingBlock.WebApplication.ApiControllers.BusinessTypeRequest.Name">
+            <summary>
+            The name of the business type
+            </summary>
+        </member>
+        <member name="T:BookingBlock.WebApplication.ApiControllers.HttpRequestMessageExtensions">
+            <summary>
+            Extends the HttpRequestMessage collection
+            </summary>
+        </member>
+        <member name="M:BookingBlock.WebApplication.ApiControllers.HttpRequestMessageExtensions.GetQueryStrings(System.Net.Http.HttpRequestMessage)">
+            <summary>
+            Returns a dictionary of QueryStrings that's easier to work with 
+            than GetQueryNameValuePairs KevValuePairs collection.
+            
+            If you need to pull a few single values use GetQueryString instead.
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookingBlock.WebApplication.ApiControllers.HttpRequestMessageExtensions.GetQueryString(System.Net.Http.HttpRequestMessage,System.String)">
+            <summary>
+            Returns an individual querystring value
+            </summary>
+            <param name="request"></param>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookingBlock.WebApplication.ApiControllers.HttpRequestMessageExtensions.GetHeader(System.Net.Http.HttpRequestMessage,System.String)">
+            <summary>
+            Returns an individual HTTP Header value
+            </summary>
+            <param name="request"></param>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookingBlock.WebApplication.ApiControllers.HttpRequestMessageExtensions.GetCookie(System.Net.Http.HttpRequestMessage,System.String)">
+            <summary>
+            Retrieves an individual cookie from the cookies collection
+            </summary>
+            <param name="request"></param>
+            <param name="cookieName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookingBlock.WebApplication.ApiControllers.BusinessTypesController.Add(BookingBlock.WebApplication.ApiControllers.AddBusinessTypeRequest)">
+            <summary>
+            Add a business type to the database.
+            </summary>
+            <param name="businessType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookingBlock.WebApplication.ApiControllers.BusinessTypesController.Remove(BookingBlock.WebApplication.ApiControllers.RemoveBusinessTypeRequest)">
+            <summary>
+            Remove a business type from the database.
+            </summary>
+            <param name="businessType"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BookingBlock.WebApplication.ApiControllers.RemoveBusinessTypeRequest">
+            <summary>
+            An object to represent a business type we want to remove from the database.
+            </summary>
+        </member>
+        <member name="T:BookingBlock.WebApplication.AppSettings">
+            <summary>
+            A class for working with the app settings stored in the web.config.
+            </summary>
+        </member>
+        <member name="M:BookingBlock.WebApplication.Controllers.DemoController.Test">
+            <summary>
+            This is a comment
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:BookingBlock.WebApplication.Models.Media">
+            <summary>
+            Represents media that can be added to a business page, videos, pdfs, images, etc...
+            </summary>
+        </member>
+        <member name="T:BookingBlock.WebApplication.SiteAppSettings">
+            <summary>
+            This class accesses site specific settings (such as the site Url) from the app settings stored in the web.config.
+            </summary>
+        </member>
+        <member name="T:SqlServerTypes.Utilities">
+            <summary>
+            Utility methods related to CLR Types for SQL Server 
+            </summary>
+        </member>
+        <member name="M:SqlServerTypes.Utilities.LoadNativeAssemblies(System.String)">
+            <summary>
+            Loads the required native assemblies for the current architecture (x86 or x64)
+            </summary>
+            <param name="rootApplicationPath">
+            Root path of the current application. Use Server.MapPath(".") for ASP.NET applications
+            and AppDomain.CurrentDomain.BaseDirectory for desktop applications.
+            </param>
+        </member>
+    </members>
+</doc>

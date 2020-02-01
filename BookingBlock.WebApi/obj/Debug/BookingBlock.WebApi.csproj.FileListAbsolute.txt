@@ -1,0 +1,10 @@
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi\bin\Debug\BookingBlock.WebApi.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi\bin\Debug\BookingBlock.WebApi.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi\obj\Debug\BookingBlock.WebApi.dll
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi\obj\Debug\BookingBlock.WebApi.pdb
+C:\Users\Peter James Umpleby\Source\ReposNew\EnterpriseProject\Source\BookingBlock.WebApi\obj\Debug\BookingBlock.WebApi.csprojResolveAssemblyReference.cache
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.WebApi\bin\Debug\BookingBlock.WebApi.dll
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.WebApi\bin\Debug\BookingBlock.WebApi.pdb
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.WebApi\obj\Debug\BookingBlock.WebApi.csprojResolveAssemblyReference.cache
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.WebApi\obj\Debug\BookingBlock.WebApi.dll
+H:\Uni\3rd Year\Enterprise Project\BookingBlock\Product\BookingBlock.WebApi\obj\Debug\BookingBlock.WebApi.pdb
